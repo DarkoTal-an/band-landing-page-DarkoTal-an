@@ -1,0 +1,19 @@
+
+.home {
+    text-align: start;
+    margin-left:1.5em;
+}
+.align-right {
+    float: right;
+    /* margin-left: 1.5em; */
+}
+
+h2 {
+    margin-left: 1.5em;
+}
+
+/* img  {
+    height: auto;
+    max-width: 100%;
+} */
+

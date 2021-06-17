@@ -1,0 +1,14 @@
+.band-members {
+    text-align: center;
+    
+}
+.text {
+    background-color: rgba(240, 255, 251, 0.205);
+    text-align: left;
+    padding-left: 1.5em;
+}
+.text img {
+    float: right;
+    
+
+}
