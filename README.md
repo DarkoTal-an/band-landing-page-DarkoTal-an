@@ -13,6 +13,8 @@ Simple React App with added transition for fun. Used Framer(link is under the te
 Idea:
 ![](preview.gif)
 https://github.com/DarkoTal-an/band-landing-page-DarkoTal-an/blob/master/preview.gif
+![image](https://user-images.githubusercontent.com/74183738/133979082-0243ec50-1e2b-48aa-96c1-f40b522ef817.png)
+
 My Band Page:
 
 
