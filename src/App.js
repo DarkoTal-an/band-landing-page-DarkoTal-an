@@ -26,8 +26,8 @@ function App() {
           <NavLink className="nav-links" activeClassName="active-style" activeStyle={styleActive} to="/robby">Robby</NavLink> */}
         </div>
         <Switch>
-          <Route path="/" exact component={Home}/>
-          <Route path="/home" exact component={Home}/>
+          <Route path="/band-landing-page-DarkoTal-an/" exact component={Home}/>
+          <Route path="/band-landing-page-DarkoTal-an/home" exact component={Home}/>
           <Route path="/jim" exact component={Jim}/>
           <Route path="/john" exact component={John}/>
           <Route path="/ray" exact component={Ray}/>
