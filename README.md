@@ -10,11 +10,13 @@ Deployment was a bit tricky. Needed help from GitHub pages.
 
 Simple React App with added transition for fun. Used Framer(link is under the text)
 
+Idea: 
 
 ![Idea: ](preview.gif)
 
 
 My Band Page:
+|| https://darkotal-an.github.io/band-landing-page-DarkoTal-an/
 
 Framer Transitioning:
 
