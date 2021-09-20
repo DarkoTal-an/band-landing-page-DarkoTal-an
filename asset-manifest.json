@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/band-landing-page/static/css/main.4214f12a.chunk.css",
-    "main.js": "/band-landing-page/static/js/main.40e5f31c.chunk.js",
-    "main.js.map": "/band-landing-page/static/js/main.40e5f31c.chunk.js.map",
-    "runtime-main.js": "/band-landing-page/static/js/runtime-main.6670be19.js",
-    "runtime-main.js.map": "/band-landing-page/static/js/runtime-main.6670be19.js.map",
-    "static/js/2.bf228ac3.chunk.js": "/band-landing-page/static/js/2.bf228ac3.chunk.js",
-    "static/js/2.bf228ac3.chunk.js.map": "/band-landing-page/static/js/2.bf228ac3.chunk.js.map",
-    "static/js/3.ae50b95d.chunk.js": "/band-landing-page/static/js/3.ae50b95d.chunk.js",
-    "static/js/3.ae50b95d.chunk.js.map": "/band-landing-page/static/js/3.ae50b95d.chunk.js.map",
-    "index.html": "/band-landing-page/index.html",
-    "static/css/main.4214f12a.chunk.css.map": "/band-landing-page/static/css/main.4214f12a.chunk.css.map",
-    "static/js/2.bf228ac3.chunk.js.LICENSE.txt": "/band-landing-page/static/js/2.bf228ac3.chunk.js.LICENSE.txt"
+    "main.css": "/band-landing-page-DarkoTal-an/static/css/main.4214f12a.chunk.css",
+    "main.js": "/band-landing-page-DarkoTal-an/static/js/main.40e5f31c.chunk.js",
+    "main.js.map": "/band-landing-page-DarkoTal-an/static/js/main.40e5f31c.chunk.js.map",
+    "runtime-main.js": "/band-landing-page-DarkoTal-an/static/js/runtime-main.aaca2ee1.js",
+    "runtime-main.js.map": "/band-landing-page-DarkoTal-an/static/js/runtime-main.aaca2ee1.js.map",
+    "static/js/2.bf228ac3.chunk.js": "/band-landing-page-DarkoTal-an/static/js/2.bf228ac3.chunk.js",
+    "static/js/2.bf228ac3.chunk.js.map": "/band-landing-page-DarkoTal-an/static/js/2.bf228ac3.chunk.js.map",
+    "static/js/3.ae50b95d.chunk.js": "/band-landing-page-DarkoTal-an/static/js/3.ae50b95d.chunk.js",
+    "static/js/3.ae50b95d.chunk.js.map": "/band-landing-page-DarkoTal-an/static/js/3.ae50b95d.chunk.js.map",
+    "index.html": "/band-landing-page-DarkoTal-an/index.html",
+    "static/css/main.4214f12a.chunk.css.map": "/band-landing-page-DarkoTal-an/static/css/main.4214f12a.chunk.css.map",
+    "static/js/2.bf228ac3.chunk.js.LICENSE.txt": "/band-landing-page-DarkoTal-an/static/js/2.bf228ac3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6670be19.js",
+    "static/js/runtime-main.aaca2ee1.js",
     "static/js/2.bf228ac3.chunk.js",
     "static/css/main.4214f12a.chunk.css",
     "static/js/main.40e5f31c.chunk.js"
