@@ -12,7 +12,7 @@ Simple React App with added transition for fun. Used Framer(link is under the te
 
 Idea: 
 
-![](preview.gif)
+![Idea: ](preview.gif)
 
 
 My Band Page:
