@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/band-landing-page-DarkoTal-an/static/css/main.4214f12a.chunk.css",
-    "main.js": "/band-landing-page-DarkoTal-an/static/js/main.998195e1.chunk.js",
-    "main.js.map": "/band-landing-page-DarkoTal-an/static/js/main.998195e1.chunk.js.map",
+    "main.js": "/band-landing-page-DarkoTal-an/static/js/main.28702e14.chunk.js",
+    "main.js.map": "/band-landing-page-DarkoTal-an/static/js/main.28702e14.chunk.js.map",
     "runtime-main.js": "/band-landing-page-DarkoTal-an/static/js/runtime-main.aaca2ee1.js",
     "runtime-main.js.map": "/band-landing-page-DarkoTal-an/static/js/runtime-main.aaca2ee1.js.map",
     "static/js/2.bf228ac3.chunk.js": "/band-landing-page-DarkoTal-an/static/js/2.bf228ac3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aaca2ee1.js",
     "static/js/2.bf228ac3.chunk.js",
     "static/css/main.4214f12a.chunk.css",
-    "static/js/main.998195e1.chunk.js"
+    "static/js/main.28702e14.chunk.js"
   ]
 }
