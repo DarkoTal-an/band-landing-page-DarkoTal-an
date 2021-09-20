@@ -16,6 +16,7 @@ Idea:
 
 
 My Band Page:
+|| https://darkotal-an.github.io/band-landing-page-DarkoTal-an/
 
 Framer Transitioning:
 
