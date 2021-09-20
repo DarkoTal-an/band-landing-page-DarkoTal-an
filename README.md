@@ -9,7 +9,7 @@ Deployment was a bit tricky. Needed help from GitHub pages.
 
 Simple React App with added transition for fun. Used Framer(link is under the text)
 
-Idea:  https://github.com/DarkoTal-an/band-landing-page-DarkoTal-an/blob/master/preview.gif image
+Idea: 
 
 
 My Band Page:
