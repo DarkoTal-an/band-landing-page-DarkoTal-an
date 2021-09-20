@@ -1,17 +1,20 @@
-# SPA-Router-band-landing-page
+# SPA-Router-band-landing-page Exercise
 
 A small exercise to react-router
 
-Please create a small React app for your favorite music band.  
-Your navigation should contain as many items as the members of your band (4+ members. We all love Daft Punk but we need more routes).  
-Use the [react-router](https://reactrouter.com/) package to handle your navigation.  
-Your solution doesn't have to have any transitions by default.
+Created a small React app for my favorite music band. Rock band "The Doors" We have 5 members , which give us 5 routes + home route
 
-![](preview.gif)
+Deployment was a bit tricky. Needed help from GitHub pages.
 
-#### BONUS
+>> https://github.com/facebook/create-react-app/issues/1765
 
-You can experiment with transitions between pages as well. Here are some interesting libraries:
+Simple React App with added transition for fun. Used Framer(link is under the text)
 
-- https://reactcommunity.org/react-transition-group/
-- https://www.framer.com/motion/
+Idea: ![](preview.gif)
+
+
+My Band Page:
+
+Framer Transitioning:
+
+https://www.framer.com/motion/
